@@ -14,7 +14,7 @@ Pedidos".
 ISR401-prueba-U4-vera-gomez/
 └── Prueba_Practica_Unidad_IV_ISR401/     ← todo está adentro de esta subcarpeta
     ├── Prueba_Practica_Unidad_IV_ISR401.pdf
-    ├── Prueba_Practica_Unidad_IV_ISR401.zip
+    ├── main.text
     └── README.md
 ```
 
