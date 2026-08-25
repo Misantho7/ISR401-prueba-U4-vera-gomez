@@ -11,12 +11,11 @@ Pedidos".
 ## Estructura del repositorio
 
 ```
-.
-├── main.tex                  # Archivo principal (carátula + P1–P10)
-├── img/
-│   └── captura_evaluacion.png  # Captura de la evaluación del cuestionario (SGA)
-├── main.pdf                  # PDF compilado (resultado final)
-└── README.md
+ISR401-prueba-U4-vera-gomez/
+└── Prueba_Practica_Unidad_IV_ISR401/     ← todo está adentro de esta subcarpeta
+    ├── Prueba_Practica_Unidad_IV_ISR401.pdf
+    ├── Prueba_Practica_Unidad_IV_ISR401.zip
+    └── README.md
 ```
 
 ## Requisitos / dependencias
